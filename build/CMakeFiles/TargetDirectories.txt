@@ -1,0 +1,5 @@
+C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build/CMakeFiles/ToDoManager.dir
+C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build/CMakeFiles/edit_cache.dir
+C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build/CMakeFiles/rebuild_cache.dir
+C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build/CMakeFiles/ToDoManager_autogen_timestamp_deps.dir
+C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build/CMakeFiles/ToDoManager_autogen.dir

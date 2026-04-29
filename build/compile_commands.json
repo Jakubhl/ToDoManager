@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ToDoManager.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ToDoManager.dir\\ToDoManager_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\kubah\\Desktop\\github_personal_utilities\\ToDoManager\\build\\ToDoManager_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build/ToDoManager_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/ToDoManager.dir/ToDoManager_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ToDoManager.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ToDoManager.dir\\src\\AddTaskWindow.cpp.obj -c C:\\Users\\kubah\\Desktop\\github_personal_utilities\\ToDoManager\\src\\AddTaskWindow.cpp",
+  "file": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/src/AddTaskWindow.cpp",
+  "output": "CMakeFiles/ToDoManager.dir/src/AddTaskWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ToDoManager.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ToDoManager.dir\\src\\JsonHandler.cpp.obj -c C:\\Users\\kubah\\Desktop\\github_personal_utilities\\ToDoManager\\src\\JsonHandler.cpp",
+  "file": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/src/JsonHandler.cpp",
+  "output": "CMakeFiles/ToDoManager.dir/src/JsonHandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ToDoManager.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ToDoManager.dir\\src\\MainWindow.cpp.obj -c C:\\Users\\kubah\\Desktop\\github_personal_utilities\\ToDoManager\\src\\MainWindow.cpp",
+  "file": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/src/MainWindow.cpp",
+  "output": "CMakeFiles/ToDoManager.dir/src/MainWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ToDoManager.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ToDoManager.dir\\src\\main.cpp.obj -c C:\\Users\\kubah\\Desktop\\github_personal_utilities\\ToDoManager\\src\\main.cpp",
+  "file": "C:/Users/kubah/Desktop/github_personal_utilities/ToDoManager/src/main.cpp",
+  "output": "CMakeFiles/ToDoManager.dir/src/main.cpp.obj"
+}
+]
